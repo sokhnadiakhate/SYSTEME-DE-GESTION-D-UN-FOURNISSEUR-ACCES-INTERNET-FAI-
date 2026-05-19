@@ -56,11 +56,4 @@ Ce diagramme suit le cycle de vie et les changements d'états des entités cruci
 
 
 ---
-
-## 🛠️ Comment exploiter ce dépôt ?
-
-1. **Visualisation rapide :** L'ensemble des modélisations graphiques est consultable directement depuis ce fichier ou dans le dossier `images/`.
-2. **Édition :** Les fichiers sources correspondants peuvent être importés et modifiés dans n'importe quel logiciel de modélisation compatible UML (tel que le logiciel Astah).
-
----
-*Projet réalisé dans le cadre du module d'Analyse et Conception Orientée Objet (UML).*
+**Projet réalisé dans le cadre du module d'Analyse et Conception Orientée Objet (UML).**
